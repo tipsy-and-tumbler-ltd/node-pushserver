@@ -1,0 +1,1 @@
+{"nfs":{"/host":{"nfs":true,"guestpath":"/host","hostpath":"/Users/boydlee","disabled":false,"type":"nfs","map_uid":501,"map_gid":20,"nfs_udp":true,"nfs_version":3,"uuid":"4142905442"}},"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/boydlee/Documents/Projects/node-pushserver","disabled":false}}}
